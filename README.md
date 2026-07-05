@@ -16,7 +16,7 @@ Managing cash flow is critical to business survival. This project is an end-to-e
 
 <p align="center">
   <a href="Project1_AP_Dashboard.pdf">
-    <img src="Dashboard_Preview.png" alt="Accounts Payable Dashboard" width="800">
+    <img src="Project1_AP_Dashboard.png" alt="Accounts Payable Dashboard" width="800">
   </a>
 </p>
 
